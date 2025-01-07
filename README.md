@@ -4,7 +4,7 @@ This is the public website Github repository for 601.220 Intermediate Programmin
 SPRING 2025, at [Johns Hopkins University](https://www.jhu.edu).
 
 The actual website (generated from the contents of this repository) is
-<https://jhu-ip.github.io/cs220-sp24/>.
+<https://jhu-ip.github.io/cs220-sp25/>.
 
 ## Editing and updating the course website
 
