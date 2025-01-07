@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Intermediate Programming, Fall 2024"
+title: "Intermediate Programming, Spring 2025"
 category: "home"
 ---
 
@@ -28,10 +28,10 @@ Use the links at the top of the page to navigate the site.
 team collaborations as well as group and individual
 source code version control. Scaffolding/starter files of
 exercises, homeworks, and projects are shared via the course
-<a class="external" target="_blank" href="https://github.com/jhu-ip/cs220-f24-public">public repository</a>.
+<a class="external" target="_blank" href="https://github.com/jhu-ip/cs220-sp25-public">public repository</a>.
 You may never share your private repository with anyone else.
 
-<a class="external" target="_blank" href="https://piazza.com/jhu/fall2024/601220fa24/home">Piazza</a> is
+<a class="external" target="_blank" href="https://NA">Piazza</a> is
 the main communication channel. You will be automatically enrolled through your JHU Canvas account which you can link to any previous Piazza accounts you may have. If you have any questions or concerns about the course,
 post on Piazza. You can do either public (anonymous optional) or private posts. If others could potentially benefit from your question,
 please making it public. *Never include your homework/project solution
