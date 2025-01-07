@@ -18,15 +18,15 @@ Then add, commit, and push both material.csv and material.md.
 You can click on the header for a specific week to expand or collapse
 the materials for that week.
 
-<button type="button" id="week_1_toggle" class="week_control_button">Week 1 (21-Jan to 25-Jan)</button>
+<button type="button" id="week_1_toggle" class="week_control_button">Week 1 (21-Jan to 24-Jan)</button>
 <div id="week_1" class="collapsible">
 <table>
   <thead>
     <tr>
       <th></th>
       <th>NA</th>
-      <th>Day 1 (23-Jan)</th>
-      <th>Day 2 (25-Jan)</th>
+      <th>Day 1 (22-Jan)</th>
+      <th>Day 2 (24-Jan)</th>
     </tr>
   </thead>
   <tbody>
@@ -63,6 +63,7 @@ the materials for that week.
   </tbody>
 </table>
 </div>
+
 <!--
 video:
 <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d7af51c6-fffc-4c79-9e8e-ae230027adb4'>Editors (emacs)</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7f332c5e-6ad8-4ff8-a702-ae23002793cf'>Git</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4c4f67dd-677c-40d9-8bbc-ae230027ac60'>Submission workflow</a></td>
@@ -76,6 +77,8 @@ additional resources:
 <td><a class='external' target='_blank' href='https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf'>Emacs reference card</a><br><a class='external' target='_blank' href='https://www.openvim.com/'>Interactive Vim tutorial</a><br><a class='external' target='_blank' href='https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf'>Git cheatsheet</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9efa206a-6849-4bab-b630-ae3200303731'>Setting Up VS Code</a>
 <br><a href='resources/github-ssh.html'>GitHub Token & SSH key setup</a></td>
 -->
+
+
 <!--
 <button type="button" id="week_2_toggle" class="week_control_button">Week 2 (2-Sep to 6-Sep)</button>
 <div id="week_2" class="collapsible">
