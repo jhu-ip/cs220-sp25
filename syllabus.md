@@ -8,7 +8,7 @@ category: "syllabus"
 **Syllabus**\
 **Computer Science EN.601.220**\
 **Intermediate Programming**\
-**Fall 2024 (4 credits, E, in person)**
+**Spring 2025 (4 credits, E, in person)**
 
 *(The instructors reserve the right to make adjustments to this
 syllabus as deemed necessary with notice.)*
@@ -44,18 +44,6 @@ Ali Darvish, Senior Lecturer\
 <a class="external" target="_blank" href="https://www.cs.jhu.edu/~darvish/">https://www.cs.jhu.edu/~darvish/</a>,\
 Office hours: TBD
 Zoom: <a class="external" target="_blank" href="https://wse.zoom.us/my/kpresler">https://wse.zoom.us/my/darvish</a>
-
-Kai Presler-Marshall, Lecturer\
-<mailto:kai@cs.jhu.edu>,\
-<a class="external" target="_blank" href="https://www.cs.jhu.edu/">https://www.cs.jhu.edu/</a>,\
-Office hours: TBD \
-Zoom: <a class="external" target="_blank" href="https://wse.zoom.us/my/kpresler">https://wse.zoom.us/my/kpresler</a>
-
-Joanne Selinski, Associate Teaching Professor\
-<mailto:joanne@cs.jhu.edu>,\
-<a class="external" target="_blank" href="https://www.cs.jhu.edu/~joanne">https://www.cs.jhu.edu/~joanne</a>,\
-Office hours: TBD \
-Zoom: <a class="external" target="_blank" href="https://wse.zoom.us/my/jselinski">https://wse.zoom.us/my/jselinski</a>
 
 Patricio Simari, Senior Lecturer\
 <mailto:psimari@cs.jhu.edu>,\
@@ -101,10 +89,10 @@ Will be listed on the main course website Staff page.
 The following sites will be used heavily during the course:
 
 -   The course website is
-    [jhu-ip.github.io/cs220-f24/](https://jhu-ip.github.io/cs220-f24/).
+    [jhu-ip.github.io/cs220-sp25/](https://jhu-ip.github.io/cs220-sp25/).
 
 -   Piazza
-    (<a class="external" target="_blank" href="https://piazza.com/jhu/fall2024/601220fa24">https://piazza.com/jhu/fall2024/601220fa24</a>)
+    (<a class="external" target="_blank" href="https://piazza.com/class/m5n1z95kfp39q">https://piazza.com/jhu/spring2025/601220sp25</a>)
     will serve as our primary communication channel. Access through Canvas, and you can then link any prior accounts to your JHU account.
 
 -   Gradescope (<a class="external" target="_blank" href="https://www.gradescope.com/">https://www.gradescope.com/</a>) will be used
@@ -287,7 +275,7 @@ accommodate late submissions in several specific ways:
     assignment points per hour (or fraction) that it is submitted
     late. For example, if you have no late days and submit an
     assignment 75 minutes late, you will lose 2% of the possible
-    assignment points off the top.
+    assignment points off the top. Keep in mind this rule only applies when you are out of your late days!
 
 Given these policies, please plan to get your homework done and turned
 in early so that if you encounter any last-minute delays, it will not
@@ -316,29 +304,11 @@ you are having trouble completing an exercise, seek help in office hours,
 or on Piazza. We will have an option for you to submit your solutions on
 gradescope and get autograder feedback on them.
 
-**Code Reviews (Optional)**
-
-Students can benefit from close review of their code in discussion
-with a course instructor. You have the option to schedule one or more
-reviews of your individual coding assignments with a course
-instructor. These will typically take 30-45 minutes each, and
-successful completion of code reviews for 2 different assignments will
-result in a 100% "fudge" grade. "Successful completion" is based on
-your ability to explain your code to the instructor and answer what-if
-questions about it. Each code review must take place within the three
-weeks immediately following that homework's due date.
-
 **Fudge Grade**
 
 Students typically do better in some aspects of the course than
 others. The "fudge grade" is a percentage of your final grade that
-duplicates your best performance from the individual grade categories listed below 
-or the optional code reviews, but not group projects. For example, if you
-successfully complete 2 code reviews, then your fudge grade will
-contribute a full 3 points to your final grade. If you don't have 2
-successful code reviews, but your highest individual grade category is
-90% in written homework, then your fudge grade will contribute 2.7
-points towards your final grade.
+duplicates your best performance from the individual grade categories listed below (participation included), but not group projects. For example, if your highest individual grade category is 90% in written homework, then your fudge grade will contribute 2.7 points towards your final grade.
 
 **Grading Breakdown**
 
@@ -346,16 +316,15 @@ points towards your final grade.
     - <emph>You must attend 85% of the classes to receive full attendance credit (i.e., your attendance/participation percentage will be divided by 0.85 and then capped at 100%.) </emph>
 -   6% - written homework (3 total; due dates vary; will be posted on Canvas)
 
--   28% - individual coding homework (5 total; point values and due dates vary; will be
-    listed on Canvas)
+-   28% - individual coding homework (5 total; point values and due dates vary; will be listed on Canvas)
 
--   14% - midterm coding project (in teams, due October 23)
+-   14% - midterm coding project (in teams)
 
--   15% - midterm exam (in class, Monday October 14)
+-   15% - midterm exam (in class Monday March 10th)
 
--   14% - final coding project (in teams, due December 6)
+-   14% - final coding project (in teams)
 
--   15% - final exam (Tuesday Dec 17th, 2-5p)
+-   15% - final exam (Tuesday May 6th, 2pm)
 
 -   3% - fudge grade (see above)
 
