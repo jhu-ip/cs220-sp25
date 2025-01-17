@@ -54,15 +54,13 @@ Zoom: <a class="external" target="_blank" href="https://wse.zoom.us/my/pdsimari"
 
 **Meetings - all in Maryland 310**
 
-Sec 01 (Simari): MWF 10:00 am – 11:15 am
+Sec 01 (Darvish): MWF 10:00 am – 11:15 am
 
 Sec 02 (Darvish): MWF 12:00 pm – 1:15 pm
 
-Sec 03 (Darvish): MWF 1:30 pm – 2:45 pm
+Sec 03 (Simari): MWF 1:30 pm – 2:45 pm
 
-Sec 04 (Selinski): MWF 3:00 pm – 4:15 pm
-
-Sec 05 (Presler-Marshall): MWF 8:30 am – 9:45 am
+Sec 04 (Simari): MWF 3:00 pm – 4:15 pm
 
 **Course Assistants**
 
