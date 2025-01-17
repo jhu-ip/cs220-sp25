@@ -62,6 +62,7 @@ Sec 03 (Simari): MWF 1:30 pm – 2:45 pm
 
 Sec 04 (Simari): MWF 3:00 pm – 4:15 pm
 
+
 **Course Assistants**
 
 Will be listed on the main course website Staff page.
