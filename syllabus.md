@@ -90,12 +90,9 @@ The following sites will be used heavily during the course:
 -   The course website is
     [jhu-ip.github.io/cs220-sp25/](https://jhu-ip.github.io/cs220-sp25/).
 
--   Piazza
-    (<a class="external" target="_blank" href="https://piazza.com/class/m5n1z95kfp39q">https://piazza.com/jhu/spring2025/601220sp25</a>)
-    will serve as our primary communication channel. Access through Canvas, and you can then link any prior accounts to your JHU account.
+-   Piazza will serve as our primary communication channel. Access through Canvas, and you can then link any prior accounts to your JHU account.
 
--   Gradescope (<a class="external" target="_blank" href="https://www.gradescope.com/">https://www.gradescope.com/</a>) will be used
-    for assignment submission, grades and feedback; access is through Canvas.
+-   Gradescope will be used for assignment submission, grades and feedback; access is through Canvas.
 
 -   Panopto will be used for video distribution (required viewing before class sessions).
 
