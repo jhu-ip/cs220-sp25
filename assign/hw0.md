@@ -41,7 +41,7 @@ import remarkMath from 'remark-math'
 <div class='admonition caution'>
 <div class='title'>Caution</div>
 <div class='content'>
-<p>You should receive an invitation to the jhu-ip organization and your private repository by <strong>Thursday, August 29</strong>. If you haven't received it, post privately for all instructors on Piazza.</p>
+<p>You should receive an invitation to the jhu-ip organization and your private repository by <strong>Firday, Jan 24</strong>. If you filled out exercise 1 form and yet haven't received the invite, post privately for all instructors on Piazza.</p>
 </div>
 </div>
 
@@ -59,7 +59,7 @@ At the top of each source file, add two comment lines that provide your anonymou
 
 ```c
 // J3V6G9
-// August 28, 2024
+// Jan 27, 2025
 ```
 
 Compile and execute each of the three programs and ensure that they give the output exactly as shown. Finally, add all three source files to your git repository, commit them with an appropriate message, and push.
