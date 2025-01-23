@@ -13,7 +13,7 @@ import remarkMath from 'remark-math'
 <div class='content'>
 <ul>
 <li>You are expected to work individually.</li>
-<li><strong>Due: Friday, September 6 by 11pm (Baltimore time).</strong></li>
+<li><strong>Due: Friday, January 31st by 11pm (Baltimore time).</strong></li>
 <li><em>This assignment is worth 20 points.</em></li>
 </ul>
 </div>
