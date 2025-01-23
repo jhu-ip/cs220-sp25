@@ -9,7 +9,7 @@ of these dates could change. Any changes will be posted here, announced in class
 and announced on [Piazza](https://piazza.com/jhu/spring2025/601220sp25/home).
 
 Unless mentioned otherwise, assignments and projects are due at 11pm (Baltimore time)
-on the due date.
+on the due date. Make sure to study [Homework submission policy](https://jhu-ip.github.io/cs220-sp25/syllabus.html), outlined in the syllabus, for details.
 
 
 Assignment/Exam | Date
