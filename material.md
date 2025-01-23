@@ -64,61 +64,46 @@ the materials for that week.
 </table>
 </div>
 
-<!--
-video:
-<td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d7af51c6-fffc-4c79-9e8e-ae230027adb4'>Editors (emacs)</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7f332c5e-6ad8-4ff8-a702-ae23002793cf'>Git</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4c4f67dd-677c-40d9-8bbc-ae230027ac60'>Submission workflow</a></td>
-slides:
-<td><a href='slides/day03_editors.pdf'>Editors (emacs)</a><br><a href='slides/day03_git.pdf'>Git</a><br><a href='slides/day03_submission_workflow.pdf'>Submission workflow</a></td>
-questions:
-<td><a href='questions/day03.html'>Day 3</a></td>
-exercises:
-<td><a href='exercise/ex03a.html'>Exercise 3-A</a><br><a href='exercise/ex03b.html'>Exercise 3-B</a></td>
-additional resources:
-<td><a class='external' target='_blank' href='https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf'>Emacs reference card</a><br><a class='external' target='_blank' href='https://www.openvim.com/'>Interactive Vim tutorial</a><br><a class='external' target='_blank' href='https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf'>Git cheatsheet</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9efa206a-6849-4bab-b630-ae3200303731'>Setting Up VS Code</a>
-<br><a href='resources/github-ssh.html'>GitHub Token & SSH key setup</a></td>
--->
-
-
-<!--
-<button type="button" id="week_2_toggle" class="week_control_button">Week 2 (2-Sep to 6-Sep)</button>
+<button type="button" id="week_2_toggle" class="week_control_button">Week 2 (27-Jan to 31-Jan)</button>
 <div id="week_2" class="collapsible">
 <table>
   <thead>
     <tr>
       <th></th>
-      <th>Labor Day (2-Sep)</th>
-      <th>Day 4 (4-Sep)</th>
-      <th>Day 5 (6-Sep)</th>
+      <th>Day 3 (27-Jan)</th>
+      <th>Day 4 (29-Jan)</th>
+      <th>Day 5 (31-Jan)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>Videos</td>
-      <td>NA</td>
+      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d7af51c6-fffc-4c79-9e8e-ae230027adb4'>Editors (emacs)</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7f332c5e-6ad8-4ff8-a702-ae23002793cf'>Git</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4c4f67dd-677c-40d9-8bbc-ae230027ac60'>Submission workflow</a></td>
       <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=45b14d44-3d4e-4fd7-b0c0-ae230027aef2'>Logical operators, control flow</a></td>
       <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=58f4d402-fd0d-4868-b805-ae230027ab93'>Arrays, ASCII</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=06a4f1da-f6a1-4212-b686-ae230027ab33'>C strings</a></td>
     </tr>
     <tr>
       <td>Slides</td>
-      <td>NA</td>
+      <td><a href='slides/day03_editors.pdf'>Editors (emacs)</a><br><a href='slides/day03_git.pdf'>Git</a><br><a href='slides/day03_submission_workflow.pdf'>Submission workflow</a></td>
       <td><a href='slides/day04_control_flow.pdf'>Logical operators, control flow</a></td>
       <td><a href='slides/day05_arrays.pdf'>Arrays</a><br><a href='slides/day05_c_strings.pdf'>C strings</a></td>
     </tr>
     <tr>
       <td>Recap<br>Questions</td>
-      <td>NA</td>
+      <td><a href='questions/day03.html'>Day 3</a></td>
       <td><a href='questions/day04.html'>Day 4</a></td>
       <td><a href='questions/day05.html'>Day 5</a></td>
     </tr>
     <tr>
       <td>Exercise</td>
-      <td>NA</td>
+      <td><a href='exercise/ex03a.html'>Exercise 3-A</a><br><a href='exercise/ex03b.html'>Exercise 3-B</a></td>
       <td><a href='exercise/ex04.html'>Exercise 4</a></td>
       <td><a href='exercise/ex05.html'>Exercise 5</a></td>
     </tr>
     <tr>
       <td>Additional<br>Resources</td>
-      <td></td>
+      <td><a class='external' target='_blank' href='https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf'>Emacs reference card</a><br><a class='external' target='_blank' href='https://www.openvim.com/'>Interactive Vim tutorial</a><br><a class='external' target='_blank' href='https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf'>Git cheatsheet</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9efa206a-6849-4bab-b630-ae3200303731'>Setting Up VS Code</a>
+<br><a href='resources/github-ssh.html'>GitHub Token & SSH key setup</a></td>
       <td></td>
       <td></td>
     </tr>
