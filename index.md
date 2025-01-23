@@ -45,4 +45,5 @@ well. You must join the Gradescope course page through Canvas.
 
 ## News
 
+* **Jan 24** — [Homework 0](assign/hw0) is posted! Due date is 01/31, 11pm.
 * **Jan 21** — Welcome to Intermediate Programming! Check out Week 1 material under the "Course Material" tab. 
