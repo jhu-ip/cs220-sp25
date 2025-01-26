@@ -42,13 +42,11 @@ syllabus as deemed necessary with notice.)*
 Ali Darvish, Senior Lecturer\
 <mailto:darvish@jhu.edu>,\
 <a class="external" target="_blank" href="https://www.cs.jhu.edu/~darvish/">https://www.cs.jhu.edu/~darvish/</a>,\
-Office hours: TBD
 Zoom: <a class="external" target="_blank" href="https://wse.zoom.us/my/kpresler">https://wse.zoom.us/my/darvish</a>
 
 Patricio Simari, Senior Lecturer\
 <mailto:psimari@cs.jhu.edu>,\
 <a class="external" target="_blank" href="https://www.cs.jhu.edu/">https://www.cs.jhu.edu/</a>,\
-Office hours: TBD \
 Zoom: <a class="external" target="_blank" href="https://wse.zoom.us/my/pdsimari">https://wse.zoom.us/my/pdsimari</a>
 
 
