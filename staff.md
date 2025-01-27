@@ -17,7 +17,7 @@ show_in_nav: false
     Department of Computer Science<br>
     Email: <a href="mailto:darvish@jhu.edu">darvish@jhu.edu</a><br>
     Web: <a class="external" target="_blank" href="https://www.cs.jhu.edu/~darvish/">https://www.cs.jhu.edu/~darvish/</a><br>
-    Office hours: TBD<br>
+    Office hours: Mon 7:30-8:30pm & Wed 11:25-11:55am (or by appt) @ Zoom<br>
     Zoom: <a class="external" target="_blank" href="https://wse.zoom.us/s/5158173954">https://wse.zoom.us/s/5158173954</a>
     </div>
   </div>
