@@ -9,7 +9,7 @@ title: Homework 1
 <div class='content'>
 <ul>
 <li>You are expected to work individually.</li>
-<li><strong>Due: Friday, September 13th at 11pm EST (Baltimore time).</strong></li>
+<li><strong>Due: Friday, February 5th at 11pm EST (Baltimore time).</strong></li>
 <li><em>This assignment is worth 60 points.</em></li>
 </ul>
 </div>
@@ -199,7 +199,7 @@ Keep in mind that error messages should be printed to `stderr` and not
 ### Development Requirements
 
 In the homework folder of your private repository
-(`2024-fall-student-JHED`), you should create a new subfolder named
+(`2025-spring-student-JHED`), you should create a new subfolder named
 `homework/hw1`. In that `homework/hw1` subfolder, you will create your program in a new
 C source file named `tasks.c`. At the top of the file, add a comment with
 your six character alphanumeric **Hopkins ID**. (Please do not include
@@ -420,14 +420,14 @@ repository. If not, complete exercises 3a and 3b and ask for help in
 office hours or class if needed.
 
 First, log into the ugrad system and navigate into your clone of the
-`cs220-f24-public` repo. Do a `git pull` to get the latest files we
+`cs220-sp25-public` repo. Do a `git pull` to get the latest files we
 have provided.
 
 Second, using the unix command `cp` (copy) along with customized file
 paths based on your file directory set-up, you'll want to copy from
-`cs220-f24-public/homework/hw1/sampleIn.txt` to the directory where
+`cs220-sp25-public/homework/hw1/sampleIn.txt` to the directory where
 you are coding your solution to this assignment. Similarly, copy from
-`cs220-f24-public/homework/hw1/sampleOut.txt` to the same place.
+`cs220-sp25-public/homework/hw1/sampleOut.txt` to the same place.
 
 Next, assuming your solution has been compiled to file `a.out`, run
 it on the input file using input redirection, and saving the
