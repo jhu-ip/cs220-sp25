@@ -111,16 +111,15 @@ the materials for that week.
 </table>
 </div>
 
-<!--
-<button type="button" id="week_3_toggle" class="week_control_button">Week 3 (9-Sep to 13-Sep)</button>
+<button type="button" id="week_3_toggle" class="week_control_button">Week 3 (3-Feb to 7-Feb)</button>
 <div id="week_3" class="collapsible">
 <table>
   <thead>
     <tr>
       <th></th>
-      <th>Day 6 (9-Sep)</th>
-      <th>Day 7 (11-Sep)</th>
-      <th>Day 8 (13-Sep)</th>
+      <th>Day 6 (3-Feb)</th>
+      <th>Day 7 (5-Feb)</th>
+      <th>Day 8 (7-Feb)</th>
     </tr>
   </thead>
   <tbody>
@@ -162,6 +161,8 @@ the materials for that week.
   </tbody>
 </table>
 </div>
+
+<!--
 <button type="button" id="week_4_toggle" class="week_control_button">Week 4 (16-Sep to 20-Sep)</button>
 <div id="week_4" class="collapsible">
 <table>
