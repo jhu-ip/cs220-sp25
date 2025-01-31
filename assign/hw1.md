@@ -9,7 +9,7 @@ title: Homework 1
 <div class='content'>
 <ul>
 <li>You are expected to work individually.</li>
-<li><strong>Due: Friday, February 5th at 11pm EST (Baltimore time).</strong></li>
+<li><strong>Due: Friday, February 7th at 11pm EST (Baltimore time).</strong></li>
 <li><em>This assignment is worth 60 points.</em></li>
 </ul>
 </div>
