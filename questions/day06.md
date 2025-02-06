@@ -5,7 +5,7 @@ title: Day 6 Recap Questions
 reference solutions:
   1. yes, stdout is the name for the default output
   2. when checking a condition that must be true to proceed
-  3. int to double is fine, it will get promoted. double to int is compiler warning(?) and should be avoided or explicitly typecast first.
+  3. int to double is fine, it will get promoted. double to int results in truncation (with no compiler error or warning) and should be avoided or explicitly typecast first.
   4. values from primitive type function call arguments are copied into the parameter variables when the call is executed
   5. add `(int argc, char* argv[])` parameters for the count of arguments and the strings themselves
 ---
