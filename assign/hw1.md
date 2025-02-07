@@ -102,7 +102,7 @@ There are four commands:
   each kind of task, fields are separated by comma ("`,`") characters,
   with no space before or after each comma. At the end of the summary,
   a line reading "<code class='highlighter-rouge'>Total time in jar:
-  <i>X</i>:<i>YY</i> out of <i>H</i>:<i>MM</i> possible"</code> is
+  <i>X</i>:<i>YY</i> out of: <i>H</i>:<i>MM</i> possible"</code> is
   printed, where *X* and *YY* indicate the number of hours and minutes
   in the jar based on "`a`" and "`r`" commands, and *H* and *MM*
   indicate the number of hours and minutes that the jar could hold
@@ -150,7 +150,7 @@ If one of
 * the `a` command can't be satisfied because it would overfill the jar, or
 * the `r` command can't be satisfied because the jar doesn't have enough of the requested task type, or
 * the user enters a command character that is not one of `a`, `r`, `s`, or
-`q`, 
+`q`,
 
 then the program should print the line "`Invalid command`" to `stderr` and continue with the next command loop.
 
@@ -176,7 +176,7 @@ You do not need to handle the following kinds of errors:
 ### Hints and Specifications
 
 You should use arrays to keep track of the identifiers for each type of
-task and their durations. (Remember there can be at most 10 of each.) For example, 
+task and their durations. (Remember there can be at most 10 of each.) For example,
 
 ```c
 char identifiers[MAX_TYPES];
@@ -437,7 +437,7 @@ displayed on the screen, not in the `myOut.txt` output file and the
 `stdout` output is redirected to the text file instead of being
 displayed on the screen.
 
-``` 
+```
 prompt> ./a.out <sampleIn.txt >myOut.txt
 Invalid command
 Invalid command
@@ -465,7 +465,7 @@ prompt> diff sampleOut.txt myOut.txt
 1c1
 < How many minutes to spend? Enter task type identifiers and durations in minutes,
 ---
-> How many minutes to spend? Enter task type identifiers and durations in minutes, 
+> How many minutes to spend? Enter task type identifiers and durations in minutes,
 15c15,18
 < Enter a command [a, r, s, q]: Enter a command [a, r, s, q]: Enter a command [a, r, s, q]: Enter a command [a, r, s, q]: Identifier,Duration,Count,Total Time
 ---
@@ -507,7 +507,7 @@ you should make sure that your submission is well formed, readable,
 consistently styled, and documented as follows:
 
 - it is not overcommented or undercommented
-- there are no ambiguous or meaningless variable names 
+- there are no ambiguous or meaningless variable names
 - it has proper/consistent bracket placements and indentation
 - there are no global variables
 - lines are at most 80 characters long
