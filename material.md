@@ -207,7 +207,7 @@ the materials for that week.
 </table>
 </div>
 
-<button type="button" id="week_5_toggle" class="week_control_button">Week 5 (17-Sep to 21-Feb)</button>
+<button type="button" id="week_5_toggle" class="week_control_button">Week 5 (17-Feb to 21-Feb)</button>
 <div id="week_5" class="collapsible">
 <table>
   <thead>
